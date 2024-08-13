@@ -28,4 +28,4 @@ pnpm-debug.log*
 !.yarn/versions
 
 # Obsidian Vault
-content/.obsidian/
+content/blog/.obsidian/*
