@@ -29,3 +29,4 @@ pnpm-debug.log*
 
 # Obsidian Vault
 content/blog/.obsidian/*
+!content/blog/.obsidian/hotkeys.json
